@@ -26,8 +26,8 @@ Getting Started
 
     bash
 
-git clone https://github.com/pete-RK/facerecognitionsystem.git
-cd multi-modal-face-recognition
+git clone https://github.com/pete-RK/FaceRecognitionSystem.git
+cd FaceRecognitionSystem
 
 Install Dependencies:
 
@@ -39,7 +39,7 @@ Run the Application:
 
 bash
 
-    python main.py
+    python wf_ml_evaluation.py
 
 Configuration
 

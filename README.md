@@ -1,4 +1,5 @@
 # Multi-Modal Face Recognition System
+
 Overview
 
 Welcome to the Multi-Modal Face Recognition System repository! This project is designed to provide a robust and efficient face recognition solution using Python, OpenCV, PyWavelets, and Haarcascades. The system incorporates multi-modal biometric fusion for enhanced accuracy, making it suitable for various applications such as security systems, access control, and user authentication.

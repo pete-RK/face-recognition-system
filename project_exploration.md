@@ -1,4 +1,4 @@
-#### SER594: Exploratory Data Munging and Visualization
+Exploratory Data Munging and Visualization
 #### Title: Face Recognition System for Identifying required Subjects (Celebrities)
 #### Pete Rohan Kanaparthi
 #### 10/16/2023

@@ -1,4 +1,3 @@
-#### SER594: Project Proposal
 #### Face Recognition System for Identifying required Subjects (Celebrities)
 #### Pete Rohan Kanparthi
 #### To Be Decided

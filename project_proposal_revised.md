@@ -1,4 +1,4 @@
-#### SER594 : Revised Project Proposal
+Revised Project Proposal
 
 #### Title : Face Recognition System for Identifying required Subjects (Celebrities)
 

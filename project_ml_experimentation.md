@@ -1,4 +1,3 @@
-#### SER594: Experimentation
 #### Title: Face Recognition System for Identifying required Subjects (Celebrities)
 #### Pete Rohan Kanaparthi
 #### 11/16/2023
